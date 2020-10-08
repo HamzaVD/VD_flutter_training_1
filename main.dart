@@ -1,11 +1,3 @@
-// Assignment: Read text from a file and find words that appear most in a line in the file.
-// (i) finding the highest frequency word(s) in each line
-// (ii) finding lines in the file whose "highest frequency words" is the greatest value among all lines.
-// Print the result in the following format:
-// The following words have the highest word frequency per line:
-// ["word1"] (appears in line #)
-// ["word2", "word3"] (appears in line #)
-
 import 'dart:io';
 
 main() {
